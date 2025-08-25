@@ -1,0 +1,15 @@
+C:\Repo\PersonalProjects\csharp-optimization-techniques\High GC Allocation\bin\Debug\net8.0\High GC Allocation.exe
+C:\Repo\PersonalProjects\csharp-optimization-techniques\High GC Allocation\bin\Debug\net8.0\High GC Allocation.deps.json
+C:\Repo\PersonalProjects\csharp-optimization-techniques\High GC Allocation\bin\Debug\net8.0\High GC Allocation.runtimeconfig.json
+C:\Repo\PersonalProjects\csharp-optimization-techniques\High GC Allocation\bin\Debug\net8.0\High GC Allocation.dll
+C:\Repo\PersonalProjects\csharp-optimization-techniques\High GC Allocation\bin\Debug\net8.0\High GC Allocation.pdb
+C:\Repo\PersonalProjects\csharp-optimization-techniques\High GC Allocation\obj\Debug\net8.0\High GC Allocation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\PersonalProjects\csharp-optimization-techniques\High GC Allocation\obj\Debug\net8.0\High GC Allocation.AssemblyInfoInputs.cache
+C:\Repo\PersonalProjects\csharp-optimization-techniques\High GC Allocation\obj\Debug\net8.0\High GC Allocation.AssemblyInfo.cs
+C:\Repo\PersonalProjects\csharp-optimization-techniques\High GC Allocation\obj\Debug\net8.0\High GC Allocation.csproj.CoreCompileInputs.cache
+C:\Repo\PersonalProjects\csharp-optimization-techniques\High GC Allocation\obj\Debug\net8.0\High GC Allocation.sourcelink.json
+C:\Repo\PersonalProjects\csharp-optimization-techniques\High GC Allocation\obj\Debug\net8.0\High GC Allocation.dll
+C:\Repo\PersonalProjects\csharp-optimization-techniques\High GC Allocation\obj\Debug\net8.0\refint\High GC Allocation.dll
+C:\Repo\PersonalProjects\csharp-optimization-techniques\High GC Allocation\obj\Debug\net8.0\High GC Allocation.pdb
+C:\Repo\PersonalProjects\csharp-optimization-techniques\High GC Allocation\obj\Debug\net8.0\High GC Allocation.genruntimeconfig.cache
+C:\Repo\PersonalProjects\csharp-optimization-techniques\High GC Allocation\obj\Debug\net8.0\ref\High GC Allocation.dll
